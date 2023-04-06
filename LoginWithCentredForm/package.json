@@ -1,0 +1,20 @@
+{
+  "name": "loginwithcentredform",
+  "version": "1.0.0",
+  "description": "Login Page Using Chakra",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js", // or whatever command you use to start your application
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jmgconstruction/loginwithcentredform.git"
+  },
+  "author": "Jasper Gementiza",
+  "license": "JMG",
+  "dependencies": {
+    "chakra-ui": "^1.6.5", // example dependency, replace with your own
+    // Add other dependencies here
+  }
+}
